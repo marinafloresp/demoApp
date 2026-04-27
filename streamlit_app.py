@@ -5,7 +5,5 @@ st.set_page_config(
     layout="wide"
 )
 
-add_logo()
-sideBar()
 st.header("Home")
 st.write("---")
